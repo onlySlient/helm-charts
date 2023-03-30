@@ -1,7 +1,7 @@
-# helm-charts
+# helm chart
 
-helm charts
+> <https://github.com/onlySlient/helm-charts>
 
-## Install helm/chart-releaser
+## Usage
 
-> <https://github.com/helm/chart-releaser>
+TODO add usage
